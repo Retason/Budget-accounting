@@ -1,0 +1,36 @@
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\AddEntryType.g.cs
+G:\Projects\Teach\retas\app1\WpfApp1\WpfApp1\obj\Debug\AddEntryType.baml
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\AddEntryType.g.cs
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\AddEntryType.baml
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Retas\Desktop\4 Практическая\WpfApp1\obj\Debug\WpfApp1.pdb
